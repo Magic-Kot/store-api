@@ -1,0 +1,6 @@
+.env
+*.gen.go
+*.out
+
+.idea
+.vscode
